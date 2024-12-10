@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ HP badge: 
-<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/slytherin_badge.gif" width="200px">
+<br><img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/slytherin_badge.gif" width="200px">
