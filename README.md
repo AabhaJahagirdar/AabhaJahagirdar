@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ! 👋 I'm AabhaJ
 
 <!--
 **AabhaJahagirdar/AabhaJahagirdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ HP badge: 
+<img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/slytherin_badge.gif" width="200px">
