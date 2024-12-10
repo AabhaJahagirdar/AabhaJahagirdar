@@ -1,4 +1,5 @@
 ## Hi ! 👋 I'm AabhaJ
+I am a student and a tech enthusiast
 
 <!--
 **AabhaJahagirdar/AabhaJahagirdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
