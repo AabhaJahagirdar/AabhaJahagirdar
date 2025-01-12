@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ HP badge: 
-<br><br><img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/mainpics/slytherin_badge.gif" width="200px">
+<br><br><img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/main/pics/slytherin_badge.gif" width="200px">
 <!-- 
 <br><br><img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/master/pics/slytherin_badge.gif" width="200px"> -->
