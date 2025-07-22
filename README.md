@@ -1,5 +1,7 @@
 ## Hi ! 👋 I'm AabhaJ
 I am a student and a tech enthusiast
+<br><br>
+Here's my general Stats : 
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=15554&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+S" width="400px">
 
