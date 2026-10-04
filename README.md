@@ -3,7 +3,10 @@
   <h1>Hi, I'm Aabha 👋</h1>
   <p>I am a student and a tech enthusiast.</p>
 
-  <img src="https://img.shields.io/badge/HOUSE-SLYTHERIN-1a472a?style=for-the-badge&logo=target&logoColor=2ecc71" alt="Slytherin House" />
+  <!-- Interactive Slytherin House Badge -> Links to HP-Sorting Repo -->
+  <a href="https://github.com/AabhaJahagirdar/HP-Sorting" title="Play the Harry Potter Sorting Hat Game!">
+    <img src="https://img.shields.io/badge/🐍_SLYTHERIN-HOUSE-1a472a?style=for-the-badge&labelColor=0d1117&color=2ecc71" alt="Slytherin House Badge" />
+  </a>
 
   <br/><br/>
 
@@ -18,7 +21,7 @@
   <table border="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" style="background-color: #0d1117; border: 1px solid #1a472a; border-radius: 10px; padding: 20px;">
-        <h4 style="margin: 0 0 12px 0; color: #2ecc71;"> Contribution 🐍 </h4>
+        <h4 style="margin: 0 0 12px 0; color: #2ecc71;">🐍 Contribution Snake</h4>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake.svg">
@@ -30,19 +33,19 @@
 
   <br/>
 
-  <!-- Slytherin Themed Social Badges -->
+  <!-- Connect With Me Badges (Clean Spacing, No Artifacts) -->
   <p><b>Connect With Me</b></p>
 
-  <a href="https://linkedin.com/in/aabhajahagirdar" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71&labelColor=161B22" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://aabhajahagirdar.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2ECC71&labelColor=161B22" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/aabhaj_" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=2ECC71&labelColor=161B22" alt="Instagram" />
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/aabhajahagirdar" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71&labelColor=161B22" alt="LinkedIn" />
+    </a>
+    <a href="https://aabhajahagirdar.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2ECC71&labelColor=161B22" alt="Portfolio" />
+    </a>
+    <a href="https://instagram.com/aabhaj_" target="_blank">
+      <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=2ECC71&labelColor=161B22" alt="Instagram" />
+    </a>
+  </p>
 
 </div>
