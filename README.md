@@ -1,53 +1,48 @@
-## Hi ! 👋 I'm AabhaJ
-I am a student and a tech enthusiast
+<div align="center">
 
+  <h1>Hi, I'm Aabha 👋</h1>
+  <p>I am a student and a tech enthusiast.</p>
 
-<!--
-**AabhaJahagirdar/AabhaJahagirdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:::
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-⚡ HP badge: 
-<br><br><img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/main/pics/slytherin_badge.gif" width="200px">
-<!-- 
-<br><br><img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/master/pics/slytherin_badge.gif" width="200px"> -->
-
-<!-- <div align="center">
-
-  <!-- Streak Stats Card (Pink Theme) 
-  <img src="https://streak-stats.demolab.com?user=AabhaJahagirdar&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-
-  <br/><br/> -->
-
-  <!-- Contribution Snake Header -->
-  <h3> Contribution 🐍 </h3>
-
-  <!-- Contribution Snake SVG -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake.svg">
-    <img alt="Aabha's GitHub Contribution Snake" src="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake-dark.svg">
-  </picture>
+  <img src="https://img.shields.io/badge/HOUSE-SLYTHERIN-1a472a?style=for-the-badge&logo=target&logoColor=2ecc71" alt="Slytherin House" />
 
   <br/><br/>
 
-  <!-- Social Badges -->
-  <h3>🤝 Connect With Me</h3>
-  
-  <a href="https://linkedin.com/in/aabhajahagirdar" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Slytherin Emerald Streak Card 
+  <a href="https://github.com/AabhaJahagirdar">
+    <img src="https://streak-stats.demolab.com?user=AabhaJahagirdar&theme=dark&background=0d1117&border=1a472a&stroke=2ecc71&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
   </a>
-  <a href="mailto:AabhaJahagirdar@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <br/><br/>-->
+
+  <!-- Framed Contribution Snake Card -->
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="background-color: #0d1117; border: 1px solid #1a472a; border-radius: 10px; padding: 20px;">
+        <h4 style="margin: 0 0 12px 0; color: #2ecc71;">🐍 Contribution Snake</h4>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake.svg">
+          <img alt="Aabha's GitHub Contribution Snake" src="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake-dark.svg" width="100%">
+        </picture>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Slytherin Themed Social Badges -->
+  <p><b>Connect With Me</b></p>
+
+  <a href="https://linkedin.com/in/aabhajahagirdar" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71&labelColor=161B22" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://aabhajahagirdar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=2ECC71&labelColor=161B22" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/aabhaj_" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=2ECC71&labelColor=161B22" alt="Instagram" />
   </a>
 
 </div>
