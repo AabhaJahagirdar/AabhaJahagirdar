@@ -21,12 +21,12 @@ Here are some ideas to get you started:::
 <!-- 
 <br><br><img src="https://github.com/AabhaJahagirdar/HP-Sorting/blob/master/pics/slytherin_badge.gif" width="200px"> -->
 
-<div align="center">
+<!-- <div align="center">
 
-  <!-- Streak Stats Card (Pink Theme) -->
+  <!-- Streak Stats Card (Pink Theme) 
   <img src="https://streak-stats.demolab.com?user=AabhaJahagirdar&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 
-  <br/><br/>
+  <br/><br/> -->
 
   <!-- Contribution Snake Header -->
   <h3> Contribution 🐍 </h3>
