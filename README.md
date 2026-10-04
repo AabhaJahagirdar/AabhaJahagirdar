@@ -18,7 +18,7 @@
   <table border="0" style="border-collapse: collapse;">
     <tr>
       <td align="center" style="background-color: #0d1117; border: 1px solid #1a472a; border-radius: 10px; padding: 20px;">
-        <h4 style="margin: 0 0 12px 0; color: #2ecc71;">🐍 Contribution Snake</h4>
+        <h4 style="margin: 0 0 12px 0; color: #2ecc71;"> Contribution 🐍 </h4>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AabhaJahagirdar/AabhaJahagirdar/output/github-snake.svg">
