@@ -6,7 +6,6 @@
   <!-- Interactive Slytherin House Badge -> Links to HP-Sorting Repo -->
   <a href="https://github.com/AabhaJahagirdar/HP-Sorting" title="Play the Harry Potter Sorting Hat Game!"><img src="https://img.shields.io/badge/🐍_SLYTHERIN-HOUSE-0d1117?style=for-the-badge&labelColor=161b22&color=2ecc71" alt="Slytherin House Badge" /></a>
 
-  <br/><br/>
 
   <!-- Slytherin Emerald Streak Card
   <a href="https://github.com/AabhaJahagirdar"><img src="https://streak-stats.demolab.com?user=AabhaJahagirdar&theme=dark&background=0d1117&border=1a472a&stroke=2ecc71&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" /></a>
