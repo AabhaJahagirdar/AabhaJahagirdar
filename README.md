@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Aabha J 👋</h1>
+  <h1>Hi, I'm Aabha J</h1>
   <p>I am a student and a tech enthusiast.</p>
 
   <!-- Interactive Slytherin House Badge -> Links to HP-Sorting Repo -->
